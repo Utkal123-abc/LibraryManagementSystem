@@ -20,5 +20,5 @@ This **Library Management System** is a basic Java application that helps in man
 - **Eclipse IDE**
 - **AWS (for future hosting)**
 
-## 🗂️ Project Structure
+
 
